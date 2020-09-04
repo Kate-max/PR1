@@ -16,7 +16,7 @@ namespace CreateStruct
 
       public Genders gender;
 
-      public Person(string _firstName, string _lastName, int _age, Genders _gender)
+      public Person(string _firstName, string _lastName,  int _age, Genders _gender)
       {
         firstName = _firstName;
         lastName = _lastName;
